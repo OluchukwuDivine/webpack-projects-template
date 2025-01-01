@@ -2,9 +2,9 @@
 
 It includes the following:
 
-*   **`.gitignore`:** A file to specify files and directories that should be ignored by Git.
+*   **`.gitignore`:** Specifies files and directories that should be ignored by Git.
 *   **`README.md`:** This file.
-*   **`LICENSE`:** [Choose a license](https://choosealicense.com/) for your projects.
+*   **`LICENSE`:** MIT LICENSE
 
 **To use this template:**
 
